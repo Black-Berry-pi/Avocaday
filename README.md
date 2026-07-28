@@ -1,2 +1,2 @@
 # Avocaday
-An avacoado price prediction model.
+An avacado price viewing app.
